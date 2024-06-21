@@ -1,0 +1,1 @@
+Mouse.Click(MouseButton.Left);
